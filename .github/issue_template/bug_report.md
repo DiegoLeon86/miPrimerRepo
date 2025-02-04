@@ -10,18 +10,18 @@ assignees: ""
 ---
 
 
-### Descripción
+**Descripción**
 
 Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
 
-### Pasos para reproducir
+**Pasos para reproducir**
 
 1. Ir a '...'
 2. Hacer clic en '...'
 3. Describir cualquier otra acción hasta que ocurra el problema.
 4. Error que aparece: '...'
 
-### Comportamiento esperado
+**Comportamiento esperado**
 
 Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
 
