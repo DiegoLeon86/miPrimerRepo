@@ -9,11 +9,8 @@ assignees: ""
 
 ---
 
-
 **Descripción**
-
 Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
-
 **Pasos para reproducir**
 
 1. Ir a '...'
@@ -25,16 +22,16 @@ Describe claramente el error que has encontrado. Incluye detalles sobre cómo se
 
 Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
 
-### Capturas de pantalla o registros
+**Capturas de pantalla o registros**
 
 Si es posible, añade capturas de pantalla o registros de errores.
 
-### Entorno
+**Entorno**
 
 - Sistema operativo: [p. ej., Windows 10, macOS Catalina]
 - Navegador y versión: [p. ej., Chrome 87, Safari 14]
 - Versión del proyecto: [p. ej., 1.0.0]
 
-### Información adicional
+**Información adicional**
 
 Cualquier otra información relevante.
